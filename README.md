@@ -4,6 +4,13 @@
 
 This project involves building a user management dashboard that allows administrators to view, add, edit, and delete user profiles. The application has both frontend and backend components. The frontend is built using Vue.js and Nuxt.js, while the backend API is developed using Node.js with Nest.js.
 
+
+## how to run 
+
+1. yarn install 
+
+2. yarn dev
+
 ## How to Use
 
 Follow these steps to set up and run the project:
