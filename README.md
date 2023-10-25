@@ -31,7 +31,9 @@ Follow these steps to set up and run the project:
 
 You can run unit tests by executing the following command:
 
-yarn run test
+yarn install
+
+yarn  test
 
 
 ## Features

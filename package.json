@@ -7,11 +7,20 @@
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "postinstall": "nuxt prepare"
+    "postinstall": "nuxt prepare",
+    "test": "vitest"
+
+
+
+
+
+
   },
   "devDependencies": {
     "@nuxt/devtools": "latest",
+    "@vitejs/plugin-vue": "^4.4.0",
     "@vue/test-utils": "^2.4.1",
+    "jsdom": "^22.1.0",
     "nuxt": "^3.7.4",
     "vue": "^3.3.6",
     "vue-router": "^4.2.5"
